@@ -1,0 +1,3 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%--<jsp:forward page="/client/clientBookServlet?action=page"></jsp:forward>--%>
+<jsp:forward page="/login.jsp"></jsp:forward>
